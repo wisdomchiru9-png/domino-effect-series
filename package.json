@@ -1,9 +1,12 @@
 {
   "name": "domino-effect-series",
   "version": "1.0.0",
-  "description": "My Remotion video",
-  "repository": {},
-  "license": "UNLICENSED",
+  "description": "Domino Effect Series — Remotion narrative video project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wisdomchiru9-png/domino-effect-series.git"
+  },
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@remotion/captions": "4.0.519",

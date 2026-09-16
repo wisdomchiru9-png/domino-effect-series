@@ -1,25 +1,44 @@
 # Domino Effect Series
 
-A Remotion-based video project built around a 37-scene narrative sequence with voiceover, chapter-style transitions, ambient music, and animated storyboard presentation.
+A cinematic Remotion project that combines story-driven scene composition, ambient audio, and generated voiceover into a polished long-form video experience.
 
 ## Overview
 
-This project renders a long-form storytelling video using:
+The Domino Effect Series is a narrative video composition built with Remotion and React. It assembles a multi-scene timeline with:
 
-- Remotion for composition and playback
-- generated scene narration and captions
-- ambient background music
-- custom scene structure and timeline sequencing
-- a full-series composition plus standalone scene compositions
+- scripted narration and synchronized captions
+- ambient background audio with dynamic volume control
+- storyboard-style visual sequencing
+- standalone scene and full-series compositions
+- local preview and production rendering workflow
+
+This project is designed for storytelling, presentation, and export-focused media production from a single codebase.
+
+## Features
+
+- Full-series timeline composition with chapter-like segmentation
+- Scene metadata driven by JSON and script generation tools
+- Ambient music support with scene-aware gain shaping
+- Generated voiceover and subtitle assets for playback and distribution
+- Remotion Studio preview for rapid iteration
+
+## Tech stack
+
+- Remotion
+- React
+- TypeScript
+- Tailwind CSS
+- FFmpeg-based media generation workflow
 
 ## Project structure
 
-- src/ — React + Remotion app source
-- public/ — static media such as voiceover files and ambient audio
-- scenes.json — narrative scene definitions
-- generate-voiceover.mjs — generate voiceover and captions
-- generate-audio-fallback.mjs — generate fallback audio placeholders
-- generate_storyboard_images.py — storyboard image generation helper
+- src/ — React + Remotion source for compositions and scenes
+- public/ — static audio, captions, and media assets
+- scenes.json — narrative scene configuration
+- generate-voiceover.mjs — voiceover and caption generation
+- generate-audio-fallback.mjs — fallback audio generation
+- generate_storyboard_images.py — storyboard asset creation helper
+- output/ — rendered project outputs
 
 ## Run locally
 
@@ -29,30 +48,30 @@ Install dependencies:
 npm install
 ```
 
-Start the Remotion Studio preview:
+Start the preview in Remotion Studio:
 
 ```bash
 npm run dev
 ```
 
-Run the production bundle build:
+Create a production bundle:
 
 ```bash
 npm run build
 ```
 
-## Notes
+## Important media files
 
-- The active ambient track is stored in public/ambient/ambient-10m33.mp3.
-- The voiceover script metadata lives in public/voiceover/script.json.
-- The main full-series composition is defined in src/Composition.tsx and rendered through src/scenes/FullSeries.tsx.
+- Ambient track: public/ambient/ambient-10m33.mp3
+- Voiceover script metadata: public/voiceover/script.json
+- Main composition: src/Composition.tsx
+- Full-series playback logic: src/scenes/FullSeries.tsx
 
-## GitHub
+## Repository
 
-Repository:
-
+GitHub:
 https://github.com/wisdomchiru9-png/domino-effect-series
 
 ## License
 
-This project is currently unlicensed unless you add one explicitly in GitHub.
+This project is licensed under the MIT License. See the LICENSE file for details.
