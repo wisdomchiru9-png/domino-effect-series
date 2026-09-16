@@ -1,54 +1,58 @@
-# Remotion video
+# Domino Effect Series
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
+A Remotion-based video project built around a 37-scene narrative sequence with voiceover, chapter-style transitions, ambient music, and animated storyboard presentation.
 
-Welcome to your Remotion project!
+## Overview
 
-## Commands
+This project renders a long-form storytelling video using:
 
-**Install Dependencies**
+- Remotion for composition and playback
+- generated scene narration and captions
+- ambient background music
+- custom scene structure and timeline sequencing
+- a full-series composition plus standalone scene compositions
 
-```console
-npm i
+## Project structure
+
+- src/ — React + Remotion app source
+- public/ — static media such as voiceover files and ambient audio
+- scenes.json — narrative scene definitions
+- generate-voiceover.mjs — generate voiceover and captions
+- generate-audio-fallback.mjs — generate fallback audio placeholders
+- generate_storyboard_images.py — storyboard image generation helper
+
+## Run locally
+
+Install dependencies:
+
+```bash
+npm install
 ```
 
-**Start Preview**
+Start the Remotion Studio preview:
 
-```console
+```bash
 npm run dev
 ```
 
-**Render video**
+Run the production bundle build:
 
-```console
-npx remotion render
+```bash
+npm run build
 ```
 
-**Upgrade Remotion**
+## Notes
 
-```console
-npx remotion upgrade
-```
+- The active ambient track is stored in public/ambient/ambient-10m33.mp3.
+- The voiceover script metadata lives in public/voiceover/script.json.
+- The main full-series composition is defined in src/Composition.tsx and rendered through src/scenes/FullSeries.tsx.
 
-## Docs
+## GitHub
 
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
+Repository:
 
-## Help
-
-We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
+https://github.com/wisdomchiru9-png/domino-effect-series
 
 ## License
 
-Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+This project is currently unlicensed unless you add one explicitly in GitHub.
