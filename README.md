@@ -14,6 +14,19 @@ The Domino Effect Series is a narrative video composition built with Remotion an
 
 This project is designed for storytelling, presentation, and export-focused media production from a single codebase.
 
+## Internship Project Summary
+
+**Domino Effect Series | Remotion, React, TypeScript, FFmpeg**
+
+- Built a cinematic 37-scene video series using Remotion and React.
+- Developed JSON-driven scene composition with synchronized narration, captions, ambient audio, and timeline sequencing.
+- Created automated workflows for voiceover, subtitle generation, storyboard images, preview, and production rendering.
+- Added standalone scene playback and full-series export from a single codebase.
+
+**Skills demonstrated:** React, TypeScript, Remotion, FFmpeg, automation, multimedia processing, and UI composition.
+
+**GitHub:** https://github.com/wisdomchiru9-png/domino-effect-series
+
 ## Features
 
 - Full-series timeline composition with chapter-like segmentation
