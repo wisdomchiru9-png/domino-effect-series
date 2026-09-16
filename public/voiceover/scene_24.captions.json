@@ -1,0 +1,258 @@
+[
+  {
+    "text": "Step",
+    "startMs": 0,
+    "endMs": 314,
+    "fromMs": 0,
+    "toMs": 314,
+    "confidence": 1
+  },
+  {
+    "text": " one",
+    "startMs": 361,
+    "endMs": 596,
+    "fromMs": 361,
+    "toMs": 596,
+    "confidence": 1
+  },
+  {
+    "text": " is",
+    "startMs": 643,
+    "endMs": 800,
+    "fromMs": 643,
+    "toMs": 800,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 847,
+    "endMs": 1082,
+    "fromMs": 847,
+    "toMs": 1082,
+    "confidence": 1
+  },
+  {
+    "text": " decisive",
+    "startMs": 1129,
+    "endMs": 1757,
+    "fromMs": 1129,
+    "toMs": 1757,
+    "confidence": 1
+  },
+  {
+    "text": " act.",
+    "startMs": 1804,
+    "endMs": 2118,
+    "fromMs": 1804,
+    "toMs": 2118,
+    "confidence": 1
+  },
+  {
+    "text": " Not",
+    "startMs": 2165,
+    "endMs": 2400,
+    "fromMs": 2165,
+    "toMs": 2400,
+    "confidence": 1
+  },
+  {
+    "text": " more",
+    "startMs": 2447,
+    "endMs": 2761,
+    "fromMs": 2447,
+    "toMs": 2761,
+    "confidence": 1
+  },
+  {
+    "text": " thinking,",
+    "startMs": 2808,
+    "endMs": 3514,
+    "fromMs": 2808,
+    "toMs": 3514,
+    "confidence": 1
+  },
+  {
+    "text": " not",
+    "startMs": 3561,
+    "endMs": 3796,
+    "fromMs": 3561,
+    "toMs": 3796,
+    "confidence": 1
+  },
+  {
+    "text": " more",
+    "startMs": 3843,
+    "endMs": 4157,
+    "fromMs": 3843,
+    "toMs": 4157,
+    "confidence": 1
+  },
+  {
+    "text": " planning.",
+    "startMs": 4204,
+    "endMs": 4910,
+    "fromMs": 4204,
+    "toMs": 4910,
+    "confidence": 1
+  },
+  {
+    "text": " The",
+    "startMs": 4957,
+    "endMs": 5192,
+    "fromMs": 4957,
+    "toMs": 5192,
+    "confidence": 1
+  },
+  {
+    "text": " first",
+    "startMs": 5239,
+    "endMs": 5631,
+    "fromMs": 5239,
+    "toMs": 5631,
+    "confidence": 1
+  },
+  {
+    "text": " domino",
+    "startMs": 5678,
+    "endMs": 6149,
+    "fromMs": 5678,
+    "toMs": 6149,
+    "confidence": 1
+  },
+  {
+    "text": " does",
+    "startMs": 6196,
+    "endMs": 6510,
+    "fromMs": 6196,
+    "toMs": 6510,
+    "confidence": 1
+  },
+  {
+    "text": " not",
+    "startMs": 6557,
+    "endMs": 6792,
+    "fromMs": 6557,
+    "toMs": 6792,
+    "confidence": 1
+  },
+  {
+    "text": " negotiate.",
+    "startMs": 6839,
+    "endMs": 7624,
+    "fromMs": 6839,
+    "toMs": 7624,
+    "confidence": 1
+  },
+  {
+    "text": " It",
+    "startMs": 7671,
+    "endMs": 7827,
+    "fromMs": 7671,
+    "toMs": 7827,
+    "confidence": 1
+  },
+  {
+    "text": " breaks,",
+    "startMs": 7875,
+    "endMs": 8424,
+    "fromMs": 7875,
+    "toMs": 8424,
+    "confidence": 1
+  },
+  {
+    "text": " or",
+    "startMs": 8471,
+    "endMs": 8627,
+    "fromMs": 8471,
+    "toMs": 8627,
+    "confidence": 1
+  },
+  {
+    "text": " it",
+    "startMs": 8675,
+    "endMs": 8831,
+    "fromMs": 8675,
+    "toMs": 8831,
+    "confidence": 1
+  },
+  {
+    "text": " continues",
+    "startMs": 8878,
+    "endMs": 9584,
+    "fromMs": 8878,
+    "toMs": 9584,
+    "confidence": 1
+  },
+  {
+    "text": " to",
+    "startMs": 9631,
+    "endMs": 9788,
+    "fromMs": 9631,
+    "toMs": 9788,
+    "confidence": 1
+  },
+  {
+    "text": " fall.",
+    "startMs": 9835,
+    "endMs": 10227,
+    "fromMs": 9835,
+    "toMs": 10227,
+    "confidence": 1
+  },
+  {
+    "text": " Choose",
+    "startMs": 10275,
+    "endMs": 10745,
+    "fromMs": 10275,
+    "toMs": 10745,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 10792,
+    "endMs": 11027,
+    "fromMs": 10792,
+    "toMs": 11027,
+    "confidence": 1
+  },
+  {
+    "text": " link,",
+    "startMs": 11075,
+    "endMs": 11467,
+    "fromMs": 11075,
+    "toMs": 11467,
+    "confidence": 1
+  },
+  {
+    "text": " and",
+    "startMs": 11514,
+    "endMs": 11749,
+    "fromMs": 11514,
+    "toMs": 11749,
+    "confidence": 1
+  },
+  {
+    "text": " break",
+    "startMs": 11796,
+    "endMs": 12188,
+    "fromMs": 11796,
+    "toMs": 12188,
+    "confidence": 1
+  },
+  {
+    "text": " it",
+    "startMs": 12235,
+    "endMs": 12392,
+    "fromMs": 12235,
+    "toMs": 12392,
+    "confidence": 1
+  },
+  {
+    "text": " deliberately.",
+    "startMs": 12439,
+    "endMs": 13459,
+    "fromMs": 12439,
+    "toMs": 13459,
+    "confidence": 1
+  }
+]

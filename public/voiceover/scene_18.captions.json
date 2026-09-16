@@ -1,0 +1,306 @@
+[
+  {
+    "text": "The",
+    "startMs": 0,
+    "endMs": 235,
+    "fromMs": 0,
+    "toMs": 235,
+    "confidence": 1
+  },
+  {
+    "text": " good",
+    "startMs": 282,
+    "endMs": 596,
+    "fromMs": 282,
+    "toMs": 596,
+    "confidence": 1
+  },
+  {
+    "text": " news.",
+    "startMs": 643,
+    "endMs": 1035,
+    "fromMs": 643,
+    "toMs": 1035,
+    "confidence": 1
+  },
+  {
+    "text": " The",
+    "startMs": 1082,
+    "endMs": 1318,
+    "fromMs": 1082,
+    "toMs": 1318,
+    "confidence": 1
+  },
+  {
+    "text": " entire",
+    "startMs": 1365,
+    "endMs": 1835,
+    "fromMs": 1365,
+    "toMs": 1835,
+    "confidence": 1
+  },
+  {
+    "text": " cascade",
+    "startMs": 1882,
+    "endMs": 2431,
+    "fromMs": 1882,
+    "toMs": 2431,
+    "confidence": 1
+  },
+  {
+    "text": " can",
+    "startMs": 2478,
+    "endMs": 2714,
+    "fromMs": 2478,
+    "toMs": 2714,
+    "confidence": 1
+  },
+  {
+    "text": " be",
+    "startMs": 2761,
+    "endMs": 2918,
+    "fromMs": 2761,
+    "toMs": 2918,
+    "confidence": 1
+  },
+  {
+    "text": " stopped",
+    "startMs": 2965,
+    "endMs": 3514,
+    "fromMs": 2965,
+    "toMs": 3514,
+    "confidence": 1
+  },
+  {
+    "text": " by",
+    "startMs": 3561,
+    "endMs": 3718,
+    "fromMs": 3561,
+    "toMs": 3718,
+    "confidence": 1
+  },
+  {
+    "text": " breaking",
+    "startMs": 3765,
+    "endMs": 4392,
+    "fromMs": 3765,
+    "toMs": 4392,
+    "confidence": 1
+  },
+  {
+    "text": " a",
+    "startMs": 4439,
+    "endMs": 4519,
+    "fromMs": 4439,
+    "toMs": 4519,
+    "confidence": 1
+  },
+  {
+    "text": " single",
+    "startMs": 4566,
+    "endMs": 5037,
+    "fromMs": 4566,
+    "toMs": 5037,
+    "confidence": 1
+  },
+  {
+    "text": " link.",
+    "startMs": 5084,
+    "endMs": 5476,
+    "fromMs": 5084,
+    "toMs": 5476,
+    "confidence": 1
+  },
+  {
+    "text": " You",
+    "startMs": 5523,
+    "endMs": 5758,
+    "fromMs": 5523,
+    "toMs": 5758,
+    "confidence": 1
+  },
+  {
+    "text": " do",
+    "startMs": 5805,
+    "endMs": 5962,
+    "fromMs": 5805,
+    "toMs": 5962,
+    "confidence": 1
+  },
+  {
+    "text": " not",
+    "startMs": 6009,
+    "endMs": 6245,
+    "fromMs": 6009,
+    "toMs": 6245,
+    "confidence": 1
+  },
+  {
+    "text": " need",
+    "startMs": 6292,
+    "endMs": 6605,
+    "fromMs": 6292,
+    "toMs": 6605,
+    "confidence": 1
+  },
+  {
+    "text": " to",
+    "startMs": 6653,
+    "endMs": 6809,
+    "fromMs": 6653,
+    "toMs": 6809,
+    "confidence": 1
+  },
+  {
+    "text": " fix",
+    "startMs": 6856,
+    "endMs": 7092,
+    "fromMs": 6856,
+    "toMs": 7092,
+    "confidence": 1
+  },
+  {
+    "text": " every",
+    "startMs": 7139,
+    "endMs": 7531,
+    "fromMs": 7139,
+    "toMs": 7531,
+    "confidence": 1
+  },
+  {
+    "text": " domino.",
+    "startMs": 7578,
+    "endMs": 8127,
+    "fromMs": 7578,
+    "toMs": 8127,
+    "confidence": 1
+  },
+  {
+    "text": " You",
+    "startMs": 8174,
+    "endMs": 8409,
+    "fromMs": 8174,
+    "toMs": 8409,
+    "confidence": 1
+  },
+  {
+    "text": " just",
+    "startMs": 8456,
+    "endMs": 8770,
+    "fromMs": 8456,
+    "toMs": 8770,
+    "confidence": 1
+  },
+  {
+    "text": " need",
+    "startMs": 8817,
+    "endMs": 9131,
+    "fromMs": 8817,
+    "toMs": 9131,
+    "confidence": 1
+  },
+  {
+    "text": " to",
+    "startMs": 9178,
+    "endMs": 9335,
+    "fromMs": 9178,
+    "toMs": 9335,
+    "confidence": 1
+  },
+  {
+    "text": " stop",
+    "startMs": 9382,
+    "endMs": 9696,
+    "fromMs": 9382,
+    "toMs": 9696,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 9743,
+    "endMs": 9978,
+    "fromMs": 9743,
+    "toMs": 9978,
+    "confidence": 1
+  },
+  {
+    "text": " right",
+    "startMs": 10025,
+    "endMs": 10417,
+    "fromMs": 10025,
+    "toMs": 10417,
+    "confidence": 1
+  },
+  {
+    "text": " one,",
+    "startMs": 10464,
+    "endMs": 10778,
+    "fromMs": 10464,
+    "toMs": 10778,
+    "confidence": 1
+  },
+  {
+    "text": " at",
+    "startMs": 10825,
+    "endMs": 10982,
+    "fromMs": 10825,
+    "toMs": 10982,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 11029,
+    "endMs": 11264,
+    "fromMs": 11029,
+    "toMs": 11264,
+    "confidence": 1
+  },
+  {
+    "text": " right",
+    "startMs": 11311,
+    "endMs": 11704,
+    "fromMs": 11311,
+    "toMs": 11704,
+    "confidence": 1
+  },
+  {
+    "text": " place,",
+    "startMs": 11751,
+    "endMs": 12221,
+    "fromMs": 11751,
+    "toMs": 12221,
+    "confidence": 1
+  },
+  {
+    "text": " in",
+    "startMs": 12268,
+    "endMs": 12425,
+    "fromMs": 12268,
+    "toMs": 12425,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 12472,
+    "endMs": 12707,
+    "fromMs": 12472,
+    "toMs": 12707,
+    "confidence": 1
+  },
+  {
+    "text": " right",
+    "startMs": 12755,
+    "endMs": 13147,
+    "fromMs": 12755,
+    "toMs": 13147,
+    "confidence": 1
+  },
+  {
+    "text": " way.",
+    "startMs": 13194,
+    "endMs": 13507,
+    "fromMs": 13194,
+    "toMs": 13507,
+    "confidence": 1
+  }
+]

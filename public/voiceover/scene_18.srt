@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:01,835
+The good news. The entire
+
+2
+00:00:01,882 --> 00:00:03,514
+cascade can be stopped
+
+3
+00:00:03,561 --> 00:00:05,037
+by breaking a single
+
+4
+00:00:05,084 --> 00:00:06,605
+link. You do not need
+
+5
+00:00:06,653 --> 00:00:08,127
+to fix every domino.
+
+6
+00:00:08,174 --> 00:00:09,696
+You just need to stop
+
+7
+00:00:09,743 --> 00:00:11,264
+the right one, at the
+
+8
+00:00:11,311 --> 00:00:12,707
+right place, in the
+
+9
+00:00:12,755 --> 00:00:13,507
+right way.

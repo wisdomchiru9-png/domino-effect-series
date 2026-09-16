@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:01,631
+Most advice is written
+
+2
+00:00:01,678 --> 00:00:03,231
+for the symptom. Just
+
+3
+00:00:03,278 --> 00:00:04,675
+try harder. Just be
+
+4
+00:00:04,722 --> 00:00:06,227
+more confident. Just
+
+5
+00:00:06,275 --> 00:00:07,671
+move on. These fail
+
+6
+00:00:07,718 --> 00:00:09,506
+because they never touch
+
+7
+00:00:09,553 --> 00:00:11,263
+the actual pattern that
+
+8
+00:00:11,310 --> 00:00:13,020
+is producing the result
+
+9
+00:00:13,067 --> 00:00:14,463
+in the first place.

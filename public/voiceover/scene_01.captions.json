@@ -1,0 +1,378 @@
+[
+  {
+    "text": "Have",
+    "startMs": 0,
+    "endMs": 314,
+    "fromMs": 0,
+    "toMs": 314,
+    "confidence": 1
+  },
+  {
+    "text": " you",
+    "startMs": 361,
+    "endMs": 596,
+    "fromMs": 361,
+    "toMs": 596,
+    "confidence": 1
+  },
+  {
+    "text": " ever",
+    "startMs": 643,
+    "endMs": 957,
+    "fromMs": 643,
+    "toMs": 957,
+    "confidence": 1
+  },
+  {
+    "text": " tried",
+    "startMs": 1004,
+    "endMs": 1396,
+    "fromMs": 1004,
+    "toMs": 1396,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 1443,
+    "endMs": 1678,
+    "fromMs": 1443,
+    "toMs": 1678,
+    "confidence": 1
+  },
+  {
+    "text": " same",
+    "startMs": 1725,
+    "endMs": 2039,
+    "fromMs": 1725,
+    "toMs": 2039,
+    "confidence": 1
+  },
+  {
+    "text": " thing",
+    "startMs": 2086,
+    "endMs": 2478,
+    "fromMs": 2086,
+    "toMs": 2478,
+    "confidence": 1
+  },
+  {
+    "text": " a",
+    "startMs": 2525,
+    "endMs": 2605,
+    "fromMs": 2525,
+    "toMs": 2605,
+    "confidence": 1
+  },
+  {
+    "text": " hundred",
+    "startMs": 2653,
+    "endMs": 3202,
+    "fromMs": 2653,
+    "toMs": 3202,
+    "confidence": 1
+  },
+  {
+    "text": " times,",
+    "startMs": 3249,
+    "endMs": 3719,
+    "fromMs": 3249,
+    "toMs": 3719,
+    "confidence": 1
+  },
+  {
+    "text": " and",
+    "startMs": 3766,
+    "endMs": 4002,
+    "fromMs": 3766,
+    "toMs": 4002,
+    "confidence": 1
+  },
+  {
+    "text": " still",
+    "startMs": 4049,
+    "endMs": 4441,
+    "fromMs": 4049,
+    "toMs": 4441,
+    "confidence": 1
+  },
+  {
+    "text": " ended",
+    "startMs": 4488,
+    "endMs": 4880,
+    "fromMs": 4488,
+    "toMs": 4880,
+    "confidence": 1
+  },
+  {
+    "text": " up",
+    "startMs": 4927,
+    "endMs": 5084,
+    "fromMs": 4927,
+    "toMs": 5084,
+    "confidence": 1
+  },
+  {
+    "text": " in",
+    "startMs": 5131,
+    "endMs": 5288,
+    "fromMs": 5131,
+    "toMs": 5288,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 5335,
+    "endMs": 5570,
+    "fromMs": 5335,
+    "toMs": 5570,
+    "confidence": 1
+  },
+  {
+    "text": " same",
+    "startMs": 5617,
+    "endMs": 5931,
+    "fromMs": 5617,
+    "toMs": 5931,
+    "confidence": 1
+  },
+  {
+    "text": " place?",
+    "startMs": 5978,
+    "endMs": 6449,
+    "fromMs": 5978,
+    "toMs": 6449,
+    "confidence": 1
+  },
+  {
+    "text": " That",
+    "startMs": 6496,
+    "endMs": 6809,
+    "fromMs": 6496,
+    "toMs": 6809,
+    "confidence": 1
+  },
+  {
+    "text": " frustration",
+    "startMs": 6856,
+    "endMs": 7719,
+    "fromMs": 6856,
+    "toMs": 7719,
+    "confidence": 1
+  },
+  {
+    "text": " is",
+    "startMs": 7766,
+    "endMs": 7923,
+    "fromMs": 7766,
+    "toMs": 7923,
+    "confidence": 1
+  },
+  {
+    "text": " real",
+    "startMs": 7970,
+    "endMs": 8284,
+    "fromMs": 7970,
+    "toMs": 8284,
+    "confidence": 1
+  },
+  {
+    "text": " —",
+    "startMs": 8331,
+    "endMs": 8411,
+    "fromMs": 8331,
+    "toMs": 8411,
+    "confidence": 1
+  },
+  {
+    "text": " but",
+    "startMs": 8458,
+    "endMs": 8693,
+    "fromMs": 8458,
+    "toMs": 8693,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 8740,
+    "endMs": 8976,
+    "fromMs": 8740,
+    "toMs": 8976,
+    "confidence": 1
+  },
+  {
+    "text": " real",
+    "startMs": 9023,
+    "endMs": 9336,
+    "fromMs": 9023,
+    "toMs": 9336,
+    "confidence": 1
+  },
+  {
+    "text": " problem",
+    "startMs": 9384,
+    "endMs": 9933,
+    "fromMs": 9384,
+    "toMs": 9933,
+    "confidence": 1
+  },
+  {
+    "text": " is",
+    "startMs": 9980,
+    "endMs": 10136,
+    "fromMs": 9980,
+    "toMs": 10136,
+    "confidence": 1
+  },
+  {
+    "text": " not",
+    "startMs": 10184,
+    "endMs": 10419,
+    "fromMs": 10184,
+    "toMs": 10419,
+    "confidence": 1
+  },
+  {
+    "text": " a",
+    "startMs": 10466,
+    "endMs": 10546,
+    "fromMs": 10466,
+    "toMs": 10546,
+    "confidence": 1
+  },
+  {
+    "text": " lack",
+    "startMs": 10593,
+    "endMs": 10907,
+    "fromMs": 10593,
+    "toMs": 10907,
+    "confidence": 1
+  },
+  {
+    "text": " of",
+    "startMs": 10954,
+    "endMs": 11111,
+    "fromMs": 10954,
+    "toMs": 11111,
+    "confidence": 1
+  },
+  {
+    "text": " effort.",
+    "startMs": 11158,
+    "endMs": 11707,
+    "fromMs": 11158,
+    "toMs": 11707,
+    "confidence": 1
+  },
+  {
+    "text": " It",
+    "startMs": 11754,
+    "endMs": 11911,
+    "fromMs": 11754,
+    "toMs": 11911,
+    "confidence": 1
+  },
+  {
+    "text": " is",
+    "startMs": 11958,
+    "endMs": 12115,
+    "fromMs": 11958,
+    "toMs": 12115,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 12162,
+    "endMs": 12397,
+    "fromMs": 12162,
+    "toMs": 12397,
+    "confidence": 1
+  },
+  {
+    "text": " hidden",
+    "startMs": 12444,
+    "endMs": 12915,
+    "fromMs": 12444,
+    "toMs": 12915,
+    "confidence": 1
+  },
+  {
+    "text": " cause",
+    "startMs": 12962,
+    "endMs": 13354,
+    "fromMs": 12962,
+    "toMs": 13354,
+    "confidence": 1
+  },
+  {
+    "text": " behind",
+    "startMs": 13401,
+    "endMs": 13871,
+    "fromMs": 13401,
+    "toMs": 13871,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 13918,
+    "endMs": 14154,
+    "fromMs": 13918,
+    "toMs": 14154,
+    "confidence": 1
+  },
+  {
+    "text": " effort,",
+    "startMs": 14201,
+    "endMs": 14750,
+    "fromMs": 14201,
+    "toMs": 14750,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 14797,
+    "endMs": 15032,
+    "fromMs": 14797,
+    "toMs": 15032,
+    "confidence": 1
+  },
+  {
+    "text": " part",
+    "startMs": 15079,
+    "endMs": 15393,
+    "fromMs": 15079,
+    "toMs": 15393,
+    "confidence": 1
+  },
+  {
+    "text": " we",
+    "startMs": 15440,
+    "endMs": 15597,
+    "fromMs": 15440,
+    "toMs": 15597,
+    "confidence": 1
+  },
+  {
+    "text": " rarely",
+    "startMs": 15644,
+    "endMs": 16115,
+    "fromMs": 15644,
+    "toMs": 16115,
+    "confidence": 1
+  },
+  {
+    "text": " look",
+    "startMs": 16162,
+    "endMs": 16475,
+    "fromMs": 16162,
+    "toMs": 16475,
+    "confidence": 1
+  },
+  {
+    "text": " at.",
+    "startMs": 16522,
+    "endMs": 16758,
+    "fromMs": 16522,
+    "toMs": 16758,
+    "confidence": 1
+  }
+]

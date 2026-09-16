@@ -1,0 +1,298 @@
+[
+  {
+    "text": "You",
+    "startMs": 0,
+    "endMs": 235,
+    "fromMs": 0,
+    "toMs": 235,
+    "confidence": 1
+  },
+  {
+    "text": " cannot",
+    "startMs": 282,
+    "endMs": 753,
+    "fromMs": 282,
+    "toMs": 753,
+    "confidence": 1
+  },
+  {
+    "text": " fix",
+    "startMs": 800,
+    "endMs": 1035,
+    "fromMs": 800,
+    "toMs": 1035,
+    "confidence": 1
+  },
+  {
+    "text": " a",
+    "startMs": 1082,
+    "endMs": 1162,
+    "fromMs": 1082,
+    "toMs": 1162,
+    "confidence": 1
+  },
+  {
+    "text": " system",
+    "startMs": 1209,
+    "endMs": 1680,
+    "fromMs": 1209,
+    "toMs": 1680,
+    "confidence": 1
+  },
+  {
+    "text": " you",
+    "startMs": 1727,
+    "endMs": 1962,
+    "fromMs": 1727,
+    "toMs": 1962,
+    "confidence": 1
+  },
+  {
+    "text": " have",
+    "startMs": 2009,
+    "endMs": 2323,
+    "fromMs": 2009,
+    "toMs": 2323,
+    "confidence": 1
+  },
+  {
+    "text": " not",
+    "startMs": 2370,
+    "endMs": 2605,
+    "fromMs": 2370,
+    "toMs": 2605,
+    "confidence": 1
+  },
+  {
+    "text": " named.",
+    "startMs": 2653,
+    "endMs": 3123,
+    "fromMs": 2653,
+    "toMs": 3123,
+    "confidence": 1
+  },
+  {
+    "text": " So",
+    "startMs": 3170,
+    "endMs": 3327,
+    "fromMs": 3170,
+    "toMs": 3327,
+    "confidence": 1
+  },
+  {
+    "text": " let",
+    "startMs": 3374,
+    "endMs": 3609,
+    "fromMs": 3374,
+    "toMs": 3609,
+    "confidence": 1
+  },
+  {
+    "text": " us",
+    "startMs": 3656,
+    "endMs": 3813,
+    "fromMs": 3656,
+    "toMs": 3813,
+    "confidence": 1
+  },
+  {
+    "text": " name",
+    "startMs": 3860,
+    "endMs": 4174,
+    "fromMs": 3860,
+    "toMs": 4174,
+    "confidence": 1
+  },
+  {
+    "text": " it",
+    "startMs": 4221,
+    "endMs": 4378,
+    "fromMs": 4221,
+    "toMs": 4378,
+    "confidence": 1
+  },
+  {
+    "text": " now.",
+    "startMs": 4425,
+    "endMs": 4739,
+    "fromMs": 4425,
+    "toMs": 4739,
+    "confidence": 1
+  },
+  {
+    "text": " What",
+    "startMs": 4786,
+    "endMs": 5100,
+    "fromMs": 4786,
+    "toMs": 5100,
+    "confidence": 1
+  },
+  {
+    "text": " you",
+    "startMs": 5147,
+    "endMs": 5382,
+    "fromMs": 5147,
+    "toMs": 5382,
+    "confidence": 1
+  },
+  {
+    "text": " are",
+    "startMs": 5429,
+    "endMs": 5664,
+    "fromMs": 5429,
+    "toMs": 5664,
+    "confidence": 1
+  },
+  {
+    "text": " living",
+    "startMs": 5711,
+    "endMs": 6182,
+    "fromMs": 5711,
+    "toMs": 6182,
+    "confidence": 1
+  },
+  {
+    "text": " inside",
+    "startMs": 6229,
+    "endMs": 6700,
+    "fromMs": 6229,
+    "toMs": 6700,
+    "confidence": 1
+  },
+  {
+    "text": " is",
+    "startMs": 6747,
+    "endMs": 6904,
+    "fromMs": 6747,
+    "toMs": 6904,
+    "confidence": 1
+  },
+  {
+    "text": " a",
+    "startMs": 6951,
+    "endMs": 7031,
+    "fromMs": 6951,
+    "toMs": 7031,
+    "confidence": 1
+  },
+  {
+    "text": " mechanism",
+    "startMs": 7078,
+    "endMs": 7784,
+    "fromMs": 7078,
+    "toMs": 7784,
+    "confidence": 1
+  },
+  {
+    "text": " —",
+    "startMs": 7831,
+    "endMs": 7911,
+    "fromMs": 7831,
+    "toMs": 7911,
+    "confidence": 1
+  },
+  {
+    "text": " a",
+    "startMs": 7958,
+    "endMs": 8038,
+    "fromMs": 7958,
+    "toMs": 8038,
+    "confidence": 1
+  },
+  {
+    "text": " domino",
+    "startMs": 8085,
+    "endMs": 8555,
+    "fromMs": 8085,
+    "toMs": 8555,
+    "confidence": 1
+  },
+  {
+    "text": " mechanism",
+    "startMs": 8602,
+    "endMs": 9308,
+    "fromMs": 8602,
+    "toMs": 9308,
+    "confidence": 1
+  },
+  {
+    "text": " —",
+    "startMs": 9355,
+    "endMs": 9435,
+    "fromMs": 9355,
+    "toMs": 9435,
+    "confidence": 1
+  },
+  {
+    "text": " and",
+    "startMs": 9482,
+    "endMs": 9718,
+    "fromMs": 9482,
+    "toMs": 9718,
+    "confidence": 1
+  },
+  {
+    "text": " once",
+    "startMs": 9765,
+    "endMs": 10078,
+    "fromMs": 9765,
+    "toMs": 10078,
+    "confidence": 1
+  },
+  {
+    "text": " you",
+    "startMs": 10125,
+    "endMs": 10361,
+    "fromMs": 10125,
+    "toMs": 10361,
+    "confidence": 1
+  },
+  {
+    "text": " see",
+    "startMs": 10408,
+    "endMs": 10643,
+    "fromMs": 10408,
+    "toMs": 10643,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 10690,
+    "endMs": 10925,
+    "fromMs": 10690,
+    "toMs": 10925,
+    "confidence": 1
+  },
+  {
+    "text": " parts,",
+    "startMs": 10973,
+    "endMs": 11443,
+    "fromMs": 10973,
+    "toMs": 11443,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 11490,
+    "endMs": 11725,
+    "fromMs": 11490,
+    "toMs": 11725,
+    "confidence": 1
+  },
+  {
+    "text": " mystery",
+    "startMs": 11773,
+    "endMs": 12322,
+    "fromMs": 11773,
+    "toMs": 12322,
+    "confidence": 1
+  },
+  {
+    "text": " disappears.",
+    "startMs": 12369,
+    "endMs": 13231,
+    "fromMs": 12369,
+    "toMs": 13231,
+    "confidence": 1
+  }
+]

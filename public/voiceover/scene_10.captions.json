@@ -1,0 +1,258 @@
+[
+  {
+    "text": "And",
+    "startMs": 0,
+    "endMs": 235,
+    "fromMs": 0,
+    "toMs": 235,
+    "confidence": 1
+  },
+  {
+    "text": " finally:",
+    "startMs": 282,
+    "endMs": 910,
+    "fromMs": 282,
+    "toMs": 910,
+    "confidence": 1
+  },
+  {
+    "text": " behind",
+    "startMs": 957,
+    "endMs": 1427,
+    "fromMs": 957,
+    "toMs": 1427,
+    "confidence": 1
+  },
+  {
+    "text": " every",
+    "startMs": 1475,
+    "endMs": 1867,
+    "fromMs": 1475,
+    "toMs": 1867,
+    "confidence": 1
+  },
+  {
+    "text": " visible",
+    "startMs": 1914,
+    "endMs": 2463,
+    "fromMs": 1914,
+    "toMs": 2463,
+    "confidence": 1
+  },
+  {
+    "text": " pattern,",
+    "startMs": 2510,
+    "endMs": 3137,
+    "fromMs": 2510,
+    "toMs": 3137,
+    "confidence": 1
+  },
+  {
+    "text": " there",
+    "startMs": 3184,
+    "endMs": 3576,
+    "fromMs": 3184,
+    "toMs": 3576,
+    "confidence": 1
+  },
+  {
+    "text": " is",
+    "startMs": 3624,
+    "endMs": 3780,
+    "fromMs": 3624,
+    "toMs": 3780,
+    "confidence": 1
+  },
+  {
+    "text": " a",
+    "startMs": 3827,
+    "endMs": 3907,
+    "fromMs": 3827,
+    "toMs": 3907,
+    "confidence": 1
+  },
+  {
+    "text": " deeper",
+    "startMs": 3955,
+    "endMs": 4425,
+    "fromMs": 3955,
+    "toMs": 4425,
+    "confidence": 1
+  },
+  {
+    "text": " structure",
+    "startMs": 4472,
+    "endMs": 5178,
+    "fromMs": 4472,
+    "toMs": 5178,
+    "confidence": 1
+  },
+  {
+    "text": " that",
+    "startMs": 5225,
+    "endMs": 5539,
+    "fromMs": 5225,
+    "toMs": 5539,
+    "confidence": 1
+  },
+  {
+    "text": " produces",
+    "startMs": 5586,
+    "endMs": 6213,
+    "fromMs": 5586,
+    "toMs": 6213,
+    "confidence": 1
+  },
+  {
+    "text": " it.",
+    "startMs": 6260,
+    "endMs": 6496,
+    "fromMs": 6260,
+    "toMs": 6496,
+    "confidence": 1
+  },
+  {
+    "text": " The",
+    "startMs": 6543,
+    "endMs": 6778,
+    "fromMs": 6543,
+    "toMs": 6778,
+    "confidence": 1
+  },
+  {
+    "text": " surface-level",
+    "startMs": 6825,
+    "endMs": 7845,
+    "fromMs": 6825,
+    "toMs": 7845,
+    "confidence": 1
+  },
+  {
+    "text": " dominoes",
+    "startMs": 7892,
+    "endMs": 8519,
+    "fromMs": 7892,
+    "toMs": 8519,
+    "confidence": 1
+  },
+  {
+    "text": " you",
+    "startMs": 8566,
+    "endMs": 8802,
+    "fromMs": 8566,
+    "toMs": 8802,
+    "confidence": 1
+  },
+  {
+    "text": " see",
+    "startMs": 8849,
+    "endMs": 9084,
+    "fromMs": 8849,
+    "toMs": 9084,
+    "confidence": 1
+  },
+  {
+    "text": " are",
+    "startMs": 9131,
+    "endMs": 9366,
+    "fromMs": 9131,
+    "toMs": 9366,
+    "confidence": 1
+  },
+  {
+    "text": " only",
+    "startMs": 9413,
+    "endMs": 9727,
+    "fromMs": 9413,
+    "toMs": 9727,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 9774,
+    "endMs": 10009,
+    "fromMs": 9774,
+    "toMs": 10009,
+    "confidence": 1
+  },
+  {
+    "text": " result",
+    "startMs": 10056,
+    "endMs": 10527,
+    "fromMs": 10056,
+    "toMs": 10527,
+    "confidence": 1
+  },
+  {
+    "text": " of",
+    "startMs": 10574,
+    "endMs": 10731,
+    "fromMs": 10574,
+    "toMs": 10731,
+    "confidence": 1
+  },
+  {
+    "text": " what",
+    "startMs": 10778,
+    "endMs": 11092,
+    "fromMs": 10778,
+    "toMs": 11092,
+    "confidence": 1
+  },
+  {
+    "text": " you",
+    "startMs": 11139,
+    "endMs": 11374,
+    "fromMs": 11139,
+    "toMs": 11374,
+    "confidence": 1
+  },
+  {
+    "text": " have",
+    "startMs": 11421,
+    "endMs": 11735,
+    "fromMs": 11421,
+    "toMs": 11735,
+    "confidence": 1
+  },
+  {
+    "text": " not",
+    "startMs": 11782,
+    "endMs": 12017,
+    "fromMs": 11782,
+    "toMs": 12017,
+    "confidence": 1
+  },
+  {
+    "text": " yet",
+    "startMs": 12064,
+    "endMs": 12300,
+    "fromMs": 12064,
+    "toMs": 12300,
+    "confidence": 1
+  },
+  {
+    "text": " looked",
+    "startMs": 12347,
+    "endMs": 12817,
+    "fromMs": 12347,
+    "toMs": 12817,
+    "confidence": 1
+  },
+  {
+    "text": " at",
+    "startMs": 12864,
+    "endMs": 13021,
+    "fromMs": 12864,
+    "toMs": 13021,
+    "confidence": 1
+  },
+  {
+    "text": " directly.",
+    "startMs": 13068,
+    "endMs": 13774,
+    "fromMs": 13068,
+    "toMs": 13774,
+    "confidence": 1
+  }
+]

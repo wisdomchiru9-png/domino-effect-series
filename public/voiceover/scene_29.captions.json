@@ -1,0 +1,250 @@
+[
+  {
+    "text": "Now",
+    "startMs": 0,
+    "endMs": 235,
+    "fromMs": 0,
+    "toMs": 235,
+    "confidence": 1
+  },
+  {
+    "text": " practice.",
+    "startMs": 282,
+    "endMs": 988,
+    "fromMs": 282,
+    "toMs": 988,
+    "confidence": 1
+  },
+  {
+    "text": " The",
+    "startMs": 1035,
+    "endMs": 1271,
+    "fromMs": 1035,
+    "toMs": 1271,
+    "confidence": 1
+  },
+  {
+    "text": " next",
+    "startMs": 1318,
+    "endMs": 1631,
+    "fromMs": 1318,
+    "toMs": 1631,
+    "confidence": 1
+  },
+  {
+    "text": " time",
+    "startMs": 1678,
+    "endMs": 1992,
+    "fromMs": 1678,
+    "toMs": 1992,
+    "confidence": 1
+  },
+  {
+    "text": " you",
+    "startMs": 2039,
+    "endMs": 2275,
+    "fromMs": 2039,
+    "toMs": 2275,
+    "confidence": 1
+  },
+  {
+    "text": " feel",
+    "startMs": 2322,
+    "endMs": 2635,
+    "fromMs": 2322,
+    "toMs": 2635,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 2682,
+    "endMs": 2918,
+    "fromMs": 2682,
+    "toMs": 2918,
+    "confidence": 1
+  },
+  {
+    "text": " familiar",
+    "startMs": 2965,
+    "endMs": 3592,
+    "fromMs": 2965,
+    "toMs": 3592,
+    "confidence": 1
+  },
+  {
+    "text": " loop",
+    "startMs": 3639,
+    "endMs": 3953,
+    "fromMs": 3639,
+    "toMs": 3953,
+    "confidence": 1
+  },
+  {
+    "text": " beginning,",
+    "startMs": 4000,
+    "endMs": 4784,
+    "fromMs": 4000,
+    "toMs": 4784,
+    "confidence": 1
+  },
+  {
+    "text": " you",
+    "startMs": 4831,
+    "endMs": 5067,
+    "fromMs": 4831,
+    "toMs": 5067,
+    "confidence": 1
+  },
+  {
+    "text": " do",
+    "startMs": 5114,
+    "endMs": 5271,
+    "fromMs": 5114,
+    "toMs": 5271,
+    "confidence": 1
+  },
+  {
+    "text": " not",
+    "startMs": 5318,
+    "endMs": 5553,
+    "fromMs": 5318,
+    "toMs": 5553,
+    "confidence": 1
+  },
+  {
+    "text": " have",
+    "startMs": 5600,
+    "endMs": 5914,
+    "fromMs": 5600,
+    "toMs": 5914,
+    "confidence": 1
+  },
+  {
+    "text": " to",
+    "startMs": 5961,
+    "endMs": 6118,
+    "fromMs": 5961,
+    "toMs": 6118,
+    "confidence": 1
+  },
+  {
+    "text": " go",
+    "startMs": 6165,
+    "endMs": 6322,
+    "fromMs": 6165,
+    "toMs": 6322,
+    "confidence": 1
+  },
+  {
+    "text": " with",
+    "startMs": 6369,
+    "endMs": 6682,
+    "fromMs": 6369,
+    "toMs": 6682,
+    "confidence": 1
+  },
+  {
+    "text": " it.",
+    "startMs": 6729,
+    "endMs": 6965,
+    "fromMs": 6729,
+    "toMs": 6965,
+    "confidence": 1
+  },
+  {
+    "text": " You",
+    "startMs": 7012,
+    "endMs": 7247,
+    "fromMs": 7012,
+    "toMs": 7247,
+    "confidence": 1
+  },
+  {
+    "text": " already",
+    "startMs": 7294,
+    "endMs": 7843,
+    "fromMs": 7294,
+    "toMs": 7843,
+    "confidence": 1
+  },
+  {
+    "text": " see",
+    "startMs": 7890,
+    "endMs": 8125,
+    "fromMs": 7890,
+    "toMs": 8125,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 8173,
+    "endMs": 8408,
+    "fromMs": 8173,
+    "toMs": 8408,
+    "confidence": 1
+  },
+  {
+    "text": " first",
+    "startMs": 8455,
+    "endMs": 8847,
+    "fromMs": 8455,
+    "toMs": 8847,
+    "confidence": 1
+  },
+  {
+    "text": " domino.",
+    "startMs": 8894,
+    "endMs": 9443,
+    "fromMs": 8894,
+    "toMs": 9443,
+    "confidence": 1
+  },
+  {
+    "text": " Awareness",
+    "startMs": 9490,
+    "endMs": 10196,
+    "fromMs": 9490,
+    "toMs": 10196,
+    "confidence": 1
+  },
+  {
+    "text": " itself",
+    "startMs": 10243,
+    "endMs": 10714,
+    "fromMs": 10243,
+    "toMs": 10714,
+    "confidence": 1
+  },
+  {
+    "text": " becomes",
+    "startMs": 10761,
+    "endMs": 11310,
+    "fromMs": 10761,
+    "toMs": 11310,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 11357,
+    "endMs": 11592,
+    "fromMs": 11357,
+    "toMs": 11592,
+    "confidence": 1
+  },
+  {
+    "text": " new",
+    "startMs": 11639,
+    "endMs": 11875,
+    "fromMs": 11639,
+    "toMs": 11875,
+    "confidence": 1
+  },
+  {
+    "text": " tool.",
+    "startMs": 11922,
+    "endMs": 12314,
+    "fromMs": 11922,
+    "toMs": 12314,
+    "confidence": 1
+  }
+]

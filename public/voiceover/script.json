@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "version": 1,
+    "fps": 30,
+    "wordsPerSecond": 2.55,
+    "extraPaddingSeconds": 0.6,
+    "characterWpm": 153,
+    "voicePreset": {
+      "provider": "elevenlabs",
+      "model_id": "eleven_multilingual_v2",
+      "voice_id": "EXAVITQu4vr4xnSDxMaL",
+      "voice_settings": {
+        "stability": 0.46,
+        "similarity_boost": 0.82,
+        "style": 0.22,
+        "use_speaker_boost": true
+      }
+    },
+    "ambient": {
+      "path": "ambient/ambient-10m33.mp3",
+      "volume": 0.22
+    }
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "title": "The Hidden Reason You're Stuck",
+      "narration": "Have you ever tried the same thing a hundred times, and still ended up in the same place? That frustration is real — but the real problem is not a lack of effort. It is the hidden cause behind the effort, the part we rarely look at.",
+      "phase": 1,
+      "tone": "quiet-introspective"
+    },
+    {
+      "id": 2,
+      "title": "Unmasking the Invisible Enemy",
+      "narration": "Sometimes the obstacle is invisible. You work hard, you care deeply, and yet it feels like nobody can see you. The moment that changes everything is the moment you actually name the thing that is in the way.",
+      "phase": 1,
+      "tone": "rising-awareness"
+    },
+    {
+      "id": 3,
+      "title": "Why This Pattern Keeps Repeating",
+      "narration": "If the same result keeps showing up in your life, the cause is bigger than any one choice. It is a system, a structure, a chain — and until you see the whole chain, you will keep reproducing the same result.",
+      "phase": 1,
+      "tone": "urgent-clarity"
+    },
+    {
+      "id": 4,
+      "title": "The Framework That Changes Everything",
+      "narration": "Here is the truth: the right question can undo a decade of confusion. The moment you reframe the problem correctly, the answer stops hiding and finally becomes obvious.",
+      "phase": 1,
+      "tone": "hopeful-turn"
+    },
+    {
+      "id": 5,
+      "title": "A Better Way to See the Problem",
+      "narration": "Courage is essential. But courage aimed at the wrong target is just more effort in the wrong direction. The problem is very rarely where you are currently putting the most work.",
+      "phase": 1,
+      "tone": "direct-corrective"
+    },
+    {
+      "id": 6,
+      "title": "Looking Beneath the Surface",
+      "narration": "Most of what we feel is only the surface symptom. The grief, the exhaustion, the stuckness — each one is a signal, pointing downward to something deeper that actually needs to be addressed.",
+      "phase": 1,
+      "tone": "compassionate-deep"
+    },
+    {
+      "id": 7,
+      "title": "Spotting the Pattern Everywhere",
+      "narration": "Once you know how the pattern looks, you begin to see it everywhere. In the relationship that always ends the same way. In the job cycle. In the loop with yourself. The same structure — just wearing different clothes.",
+      "phase": 1,
+      "tone": "recognition"
+    },
+    {
+      "id": 8,
+      "title": "Defining the Hidden Mechanism",
+      "narration": "You cannot fix a system you have not named. So let us name it now. What you are living inside is a mechanism — a domino mechanism — and once you see the parts, the mystery disappears.",
+      "phase": 1,
+      "tone": "clear-defining"
+    },
+    {
+      "id": 9,
+      "title": "Predict the Next Domino",
+      "narration": "Skilled thinkers do not just react to outcomes. They see what comes next. A domino falls, and before the next one moves, you already know exactly what is about to happen.",
+      "phase": 1,
+      "tone": "analytical-confident"
+    },
+    {
+      "id": 10,
+      "title": "The Pattern Behind the Pattern",
+      "narration": "And finally: behind every visible pattern, there is a deeper structure that produces it. The surface-level dominoes you see are only the result of what you have not yet looked at directly.",
+      "phase": 1,
+      "tone": "final-pivot"
+    },
+    {
+      "id": 11,
+      "title": "One Sentence That Explains Everything",
+      "narration": "Ready? Here it is in one sentence: the same inputs always produce the same outputs. Your life is not a mystery. It is a result, and the inputs have been invisible to you — until now.",
+      "phase": 2,
+      "tone": "truth-drop"
+    },
+    {
+      "id": 12,
+      "title": "Why the Same Causes Create the Same Results",
+      "narration": "You can change the job, the city, the person, the plan. But if the inner causes remain the same, the external result will also stay the same. This is not bad news. It is the beginning of control.",
+      "phase": 2,
+      "tone": "honest-grounding"
+    },
+    {
+      "id": 13,
+      "title": "Seeing the First Domino Earlier",
+      "narration": "The most powerful moment in the chain is not the collapse at the end. It is the first small push at the very beginning. The earlier you can catch it, the easier everything else becomes.",
+      "phase": 2,
+      "tone": "empowering-shift"
+    },
+    {
+      "id": 14,
+      "title": "Following the Domino Chain",
+      "narration": "Start at the pain. Then work backwards. One cause, then the cause before that cause, then the cause before that. Keep going until you reach the moment where the chain actually began. That is the real target.",
+      "phase": 2,
+      "tone": "instructional-step"
+    },
+    {
+      "id": 15,
+      "title": "The Turning Point in the Chain",
+      "narration": "Here is where it changes. The turning point is not the latest symptom. It is the original trigger — the thing that happened before all the things you blame — and once you touch that, the whole chain becomes honest.",
+      "phase": 2,
+      "tone": "revelation"
+    },
+    {
+      "id": 16,
+      "title": "The Consequence That Really Matters",
+      "narration": "People think the consequence is the thing that happened. No. The real consequence is the way you saw yourself afterwards. That is the domino that actually keeps falling for years.",
+      "phase": 2,
+      "tone": "soft-but-direct"
+    },
+    {
+      "id": 17,
+      "title": "The Cost of Leaving It Unchecked",
+      "narration": "Small problems do not stay small. They compound. One domino becomes two, then four, then eight — and what began as a minor irritation becomes a structure so large you forget it was ever small.",
+      "phase": 2,
+      "tone": "urgent-math"
+    },
+    {
+      "id": 18,
+      "title": "Reversing the Domino Effect",
+      "narration": "The good news. The entire cascade can be stopped by breaking a single link. You do not need to fix every domino. You just need to stop the right one, at the right place, in the right way.",
+      "phase": 2,
+      "tone": "hopeful-release"
+    },
+    {
+      "id": 19,
+      "title": "Ancient Psychology, Modern Behavior",
+      "narration": "None of this is new. The domino pattern has lived in every era. Ancient minds wrote about it in different language, but the structure is identical. Human nature has not changed. Only the room has.",
+      "phase": 2,
+      "tone": "perspective-wide"
+    },
+    {
+      "id": 20,
+      "title": "Everyday Signs You Can Now Recognize",
+      "narration": "Pause for a moment. The hesitation loop. The overthinking. The avoidance. The familiar decision that ends in the familiar place. You can now see these dominoes for what they are — not just life, but a pattern in motion.",
+      "phase": 2,
+      "tone": "recognition-2"
+    },
+    {
+      "id": 21,
+      "title": "A Smarter Lens for Reality",
+      "narration": "Welcome to phase three. From here on, you look at life through a different lens. One that sees the chain, not just the tile. One that sees the cause, not only the effect.",
+      "phase": 3,
+      "tone": "clear-transition"
+    },
+    {
+      "id": 22,
+      "title": "Why Common Advice Falls Short",
+      "narration": "Most advice is written for the symptom. Just try harder. Just be more confident. Just move on. These fail because they never touch the actual pattern that is producing the result in the first place.",
+      "phase": 3,
+      "tone": "diagnostic"
+    },
+    {
+      "id": 23,
+      "title": "Introducing the Complete Solution",
+      "narration": "The solution has three steps. One: break the first domino. Two: let the new cascade build momentum. Three: remove the root cause so the pattern cannot rebuild. Do all three, and the old structure falls apart permanently.",
+      "phase": 3,
+      "tone": "roadmap-clear"
+    },
+    {
+      "id": 24,
+      "title": "Step 1: Break the First Domino",
+      "narration": "Step one is the decisive act. Not more thinking, not more planning. The first domino does not negotiate. It breaks, or it continues to fall. Choose the link, and break it deliberately.",
+      "phase": 3,
+      "tone": "decisive-action"
+    },
+    {
+      "id": 25,
+      "title": "Unlocking the Next Capability",
+      "narration": "Something strange happens right after you break the first domino. A capability you never had access to suddenly becomes available. Because the chain was not just causing problems — it was also blocking potential.",
+      "phase": 3,
+      "tone": "opening-up"
+    },
+    {
+      "id": 26,
+      "title": "Step 2: Building Lasting Momentum",
+      "narration": "Step two: let success compound in the opposite direction. One good choice makes the next choice easier. That next choice opens a door. The door opens a world. Dominoes fall, this time in your favor.",
+      "phase": 3,
+      "tone": "uplifting-build"
+    },
+    {
+      "id": 27,
+      "title": "Preparing for the Final Shift",
+      "narration": "There is one last threshold. Before you cross it, you have to put down the story of the old version of yourself. Not tomorrow. Not when you feel ready. Right now, as preparation for the final step.",
+      "phase": 3,
+      "tone": "solemn-preparation"
+    },
+    {
+      "id": 28,
+      "title": "Step 3: Remove the Root Cause",
+      "narration": "Step three is the deepest. You do not manage it. You do not cope with it. You remove the original cause — at the root. And once that root is gone, the whole old system simply cannot regrow.",
+      "phase": 3,
+      "tone": "final-intervention"
+    },
+    {
+      "id": 29,
+      "title": "Seeing the Pattern in Daily Life",
+      "narration": "Now practice. The next time you feel the familiar loop beginning, you do not have to go with it. You already see the first domino. Awareness itself becomes the new tool.",
+      "phase": 3,
+      "tone": "practical-daily"
+    },
+    {
+      "id": 30,
+      "title": "The Compounding Cost of Doing Nothing",
+      "narration": "Let us speak plainly. Doing nothing is not free. Each unbroken domino pays interest. Each unaddressed cause gets heavier. The price of inaction compounds the exact same way success does.",
+      "phase": 3,
+      "tone": "real-cost"
+    },
+    {
+      "id": 31,
+      "title": "The Compounding Reward of Consistency",
+      "narration": "And here is the good compounding. Small, consistent choices. Not perfect choices. Not dramatic choices. Small, repeated correct domino placements — and they build a life you could never have reached through one grand gesture.",
+      "phase": 4,
+      "tone": "warm-reward"
+    },
+    {
+      "id": 32,
+      "title": "The Principle That Powers Everything",
+      "narration": "This is the principle. Everything cascades. Relationships. Health. Work. Growth. Suffering. Joy. Everything is a chain of dominoes. Understand the chain, and you understand the architecture of reality itself.",
+      "phase": 4,
+      "tone": "big-picture"
+    },
+    {
+      "id": 33,
+      "title": "From First Step to New Identity",
+      "narration": "You will know it worked when you no longer recognize the person you used to be. Not because you forced it. Not because you pretended. But because the new choices built a new identity that is actually real.",
+      "phase": 4,
+      "tone": "identity-shift"
+    },
+    {
+      "id": 34,
+      "title": "Recognizing the Pattern Everywhere",
+      "narration": "The new skill never goes away. Work meetings, friendships, family dynamics, your own internal dialogue — you now see the domino mechanism in every room you enter.",
+      "phase": 4,
+      "tone": "mastery-recognition"
+    },
+    {
+      "id": 35,
+      "title": "Returning to Where It All Began",
+      "narration": "At some point you will return to the original place. The old room, the old swing, the old memory that used to break you. And for the first time, you will see it clearly. It was never the room that hurt. It was the chain you did not know how to read.",
+      "phase": 4,
+      "tone": "homecoming"
+    },
+    {
+      "id": 36,
+      "title": "A New Way of Seeing Forever",
+      "narration": "This is the permanent shift. You will never unsee it. From today onward, cause and effect will be visible to you where everyone else sees only noise. You have earned a new pair of eyes.",
+      "phase": 4,
+      "tone": "final-vision"
+    },
+    {
+      "id": 37,
+      "title": "The Point of No Return",
+      "narration": "And finally. The real shift is not one big moment. It is the moment you stop going back. When the old path is no longer an option. When the old domino cannot be stood up again. That is the point of no return. And that is where you are now.",
+      "phase": 4,
+      "tone": "triumphant-end"
+    }
+  ]
+}

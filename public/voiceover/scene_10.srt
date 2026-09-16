@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:01,427
+And finally: behind
+
+2
+00:00:01,475 --> 00:00:03,137
+every visible pattern,
+
+3
+00:00:03,184 --> 00:00:05,178
+there is a deeper structure
+
+4
+00:00:05,225 --> 00:00:06,778
+that produces it. The
+
+5
+00:00:06,825 --> 00:00:08,519
+surface-level dominoes
+
+6
+00:00:08,566 --> 00:00:10,009
+you see are only the
+
+7
+00:00:10,056 --> 00:00:11,735
+result of what you have
+
+8
+00:00:11,782 --> 00:00:13,774
+not yet looked at directly.

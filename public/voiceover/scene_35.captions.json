@@ -1,0 +1,418 @@
+[
+  {
+    "text": "At",
+    "startMs": 0,
+    "endMs": 157,
+    "fromMs": 0,
+    "toMs": 157,
+    "confidence": 1
+  },
+  {
+    "text": " some",
+    "startMs": 204,
+    "endMs": 518,
+    "fromMs": 204,
+    "toMs": 518,
+    "confidence": 1
+  },
+  {
+    "text": " point",
+    "startMs": 565,
+    "endMs": 957,
+    "fromMs": 565,
+    "toMs": 957,
+    "confidence": 1
+  },
+  {
+    "text": " you",
+    "startMs": 1004,
+    "endMs": 1239,
+    "fromMs": 1004,
+    "toMs": 1239,
+    "confidence": 1
+  },
+  {
+    "text": " will",
+    "startMs": 1286,
+    "endMs": 1600,
+    "fromMs": 1286,
+    "toMs": 1600,
+    "confidence": 1
+  },
+  {
+    "text": " return",
+    "startMs": 1647,
+    "endMs": 2118,
+    "fromMs": 1647,
+    "toMs": 2118,
+    "confidence": 1
+  },
+  {
+    "text": " to",
+    "startMs": 2165,
+    "endMs": 2322,
+    "fromMs": 2165,
+    "toMs": 2322,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 2369,
+    "endMs": 2604,
+    "fromMs": 2369,
+    "toMs": 2604,
+    "confidence": 1
+  },
+  {
+    "text": " original",
+    "startMs": 2651,
+    "endMs": 3278,
+    "fromMs": 2651,
+    "toMs": 3278,
+    "confidence": 1
+  },
+  {
+    "text": " place.",
+    "startMs": 3325,
+    "endMs": 3796,
+    "fromMs": 3325,
+    "toMs": 3796,
+    "confidence": 1
+  },
+  {
+    "text": " The",
+    "startMs": 3843,
+    "endMs": 4078,
+    "fromMs": 3843,
+    "toMs": 4078,
+    "confidence": 1
+  },
+  {
+    "text": " old",
+    "startMs": 4125,
+    "endMs": 4361,
+    "fromMs": 4125,
+    "toMs": 4361,
+    "confidence": 1
+  },
+  {
+    "text": " room,",
+    "startMs": 4408,
+    "endMs": 4800,
+    "fromMs": 4408,
+    "toMs": 4800,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 4847,
+    "endMs": 5082,
+    "fromMs": 4847,
+    "toMs": 5082,
+    "confidence": 1
+  },
+  {
+    "text": " old",
+    "startMs": 5129,
+    "endMs": 5365,
+    "fromMs": 5129,
+    "toMs": 5365,
+    "confidence": 1
+  },
+  {
+    "text": " swing,",
+    "startMs": 5412,
+    "endMs": 5882,
+    "fromMs": 5412,
+    "toMs": 5882,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 5929,
+    "endMs": 6165,
+    "fromMs": 5929,
+    "toMs": 6165,
+    "confidence": 1
+  },
+  {
+    "text": " old",
+    "startMs": 6212,
+    "endMs": 6447,
+    "fromMs": 6212,
+    "toMs": 6447,
+    "confidence": 1
+  },
+  {
+    "text": " memory",
+    "startMs": 6494,
+    "endMs": 6965,
+    "fromMs": 6494,
+    "toMs": 6965,
+    "confidence": 1
+  },
+  {
+    "text": " that",
+    "startMs": 7012,
+    "endMs": 7325,
+    "fromMs": 7012,
+    "toMs": 7325,
+    "confidence": 1
+  },
+  {
+    "text": " used",
+    "startMs": 7373,
+    "endMs": 7686,
+    "fromMs": 7373,
+    "toMs": 7686,
+    "confidence": 1
+  },
+  {
+    "text": " to",
+    "startMs": 7733,
+    "endMs": 7890,
+    "fromMs": 7733,
+    "toMs": 7890,
+    "confidence": 1
+  },
+  {
+    "text": " break",
+    "startMs": 7937,
+    "endMs": 8329,
+    "fromMs": 7937,
+    "toMs": 8329,
+    "confidence": 1
+  },
+  {
+    "text": " you.",
+    "startMs": 8376,
+    "endMs": 8690,
+    "fromMs": 8376,
+    "toMs": 8690,
+    "confidence": 1
+  },
+  {
+    "text": " And",
+    "startMs": 8737,
+    "endMs": 8973,
+    "fromMs": 8737,
+    "toMs": 8973,
+    "confidence": 1
+  },
+  {
+    "text": " for",
+    "startMs": 9020,
+    "endMs": 9255,
+    "fromMs": 9020,
+    "toMs": 9255,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 9302,
+    "endMs": 9537,
+    "fromMs": 9302,
+    "toMs": 9537,
+    "confidence": 1
+  },
+  {
+    "text": " first",
+    "startMs": 9584,
+    "endMs": 9976,
+    "fromMs": 9584,
+    "toMs": 9976,
+    "confidence": 1
+  },
+  {
+    "text": " time,",
+    "startMs": 10024,
+    "endMs": 10416,
+    "fromMs": 10024,
+    "toMs": 10416,
+    "confidence": 1
+  },
+  {
+    "text": " you",
+    "startMs": 10463,
+    "endMs": 10698,
+    "fromMs": 10463,
+    "toMs": 10698,
+    "confidence": 1
+  },
+  {
+    "text": " will",
+    "startMs": 10745,
+    "endMs": 11059,
+    "fromMs": 10745,
+    "toMs": 11059,
+    "confidence": 1
+  },
+  {
+    "text": " see",
+    "startMs": 11106,
+    "endMs": 11341,
+    "fromMs": 11106,
+    "toMs": 11341,
+    "confidence": 1
+  },
+  {
+    "text": " it",
+    "startMs": 11388,
+    "endMs": 11545,
+    "fromMs": 11388,
+    "toMs": 11545,
+    "confidence": 1
+  },
+  {
+    "text": " clearly.",
+    "startMs": 11592,
+    "endMs": 12220,
+    "fromMs": 11592,
+    "toMs": 12220,
+    "confidence": 1
+  },
+  {
+    "text": " It",
+    "startMs": 12267,
+    "endMs": 12424,
+    "fromMs": 12267,
+    "toMs": 12424,
+    "confidence": 1
+  },
+  {
+    "text": " was",
+    "startMs": 12471,
+    "endMs": 12706,
+    "fromMs": 12471,
+    "toMs": 12706,
+    "confidence": 1
+  },
+  {
+    "text": " never",
+    "startMs": 12753,
+    "endMs": 13145,
+    "fromMs": 12753,
+    "toMs": 13145,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 13192,
+    "endMs": 13427,
+    "fromMs": 13192,
+    "toMs": 13427,
+    "confidence": 1
+  },
+  {
+    "text": " room",
+    "startMs": 13475,
+    "endMs": 13788,
+    "fromMs": 13475,
+    "toMs": 13788,
+    "confidence": 1
+  },
+  {
+    "text": " that",
+    "startMs": 13835,
+    "endMs": 14149,
+    "fromMs": 13835,
+    "toMs": 14149,
+    "confidence": 1
+  },
+  {
+    "text": " hurt.",
+    "startMs": 14196,
+    "endMs": 14588,
+    "fromMs": 14196,
+    "toMs": 14588,
+    "confidence": 1
+  },
+  {
+    "text": " It",
+    "startMs": 14635,
+    "endMs": 14792,
+    "fromMs": 14635,
+    "toMs": 14792,
+    "confidence": 1
+  },
+  {
+    "text": " was",
+    "startMs": 14839,
+    "endMs": 15075,
+    "fromMs": 14839,
+    "toMs": 15075,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 15122,
+    "endMs": 15357,
+    "fromMs": 15122,
+    "toMs": 15357,
+    "confidence": 1
+  },
+  {
+    "text": " chain",
+    "startMs": 15404,
+    "endMs": 15796,
+    "fromMs": 15404,
+    "toMs": 15796,
+    "confidence": 1
+  },
+  {
+    "text": " you",
+    "startMs": 15843,
+    "endMs": 16078,
+    "fromMs": 15843,
+    "toMs": 16078,
+    "confidence": 1
+  },
+  {
+    "text": " did",
+    "startMs": 16125,
+    "endMs": 16361,
+    "fromMs": 16125,
+    "toMs": 16361,
+    "confidence": 1
+  },
+  {
+    "text": " not",
+    "startMs": 16408,
+    "endMs": 16643,
+    "fromMs": 16408,
+    "toMs": 16643,
+    "confidence": 1
+  },
+  {
+    "text": " know",
+    "startMs": 16690,
+    "endMs": 17004,
+    "fromMs": 16690,
+    "toMs": 17004,
+    "confidence": 1
+  },
+  {
+    "text": " how",
+    "startMs": 17051,
+    "endMs": 17286,
+    "fromMs": 17051,
+    "toMs": 17286,
+    "confidence": 1
+  },
+  {
+    "text": " to",
+    "startMs": 17333,
+    "endMs": 17490,
+    "fromMs": 17333,
+    "toMs": 17490,
+    "confidence": 1
+  },
+  {
+    "text": " read.",
+    "startMs": 17537,
+    "endMs": 17929,
+    "fromMs": 17537,
+    "toMs": 17929,
+    "confidence": 1
+  }
+]

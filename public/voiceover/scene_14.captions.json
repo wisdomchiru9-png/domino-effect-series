@@ -1,0 +1,298 @@
+[
+  {
+    "text": "Start",
+    "startMs": 0,
+    "endMs": 392,
+    "fromMs": 0,
+    "toMs": 392,
+    "confidence": 1
+  },
+  {
+    "text": " at",
+    "startMs": 439,
+    "endMs": 596,
+    "fromMs": 439,
+    "toMs": 596,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 643,
+    "endMs": 878,
+    "fromMs": 643,
+    "toMs": 878,
+    "confidence": 1
+  },
+  {
+    "text": " pain.",
+    "startMs": 925,
+    "endMs": 1318,
+    "fromMs": 925,
+    "toMs": 1318,
+    "confidence": 1
+  },
+  {
+    "text": " Then",
+    "startMs": 1365,
+    "endMs": 1678,
+    "fromMs": 1365,
+    "toMs": 1678,
+    "confidence": 1
+  },
+  {
+    "text": " work",
+    "startMs": 1725,
+    "endMs": 2039,
+    "fromMs": 1725,
+    "toMs": 2039,
+    "confidence": 1
+  },
+  {
+    "text": " backwards.",
+    "startMs": 2086,
+    "endMs": 2871,
+    "fromMs": 2086,
+    "toMs": 2871,
+    "confidence": 1
+  },
+  {
+    "text": " One",
+    "startMs": 2918,
+    "endMs": 3153,
+    "fromMs": 2918,
+    "toMs": 3153,
+    "confidence": 1
+  },
+  {
+    "text": " cause,",
+    "startMs": 3200,
+    "endMs": 3671,
+    "fromMs": 3200,
+    "toMs": 3671,
+    "confidence": 1
+  },
+  {
+    "text": " then",
+    "startMs": 3718,
+    "endMs": 4031,
+    "fromMs": 3718,
+    "toMs": 4031,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 4078,
+    "endMs": 4314,
+    "fromMs": 4078,
+    "toMs": 4314,
+    "confidence": 1
+  },
+  {
+    "text": " cause",
+    "startMs": 4361,
+    "endMs": 4753,
+    "fromMs": 4361,
+    "toMs": 4753,
+    "confidence": 1
+  },
+  {
+    "text": " before",
+    "startMs": 4800,
+    "endMs": 5271,
+    "fromMs": 4800,
+    "toMs": 5271,
+    "confidence": 1
+  },
+  {
+    "text": " that",
+    "startMs": 5318,
+    "endMs": 5631,
+    "fromMs": 5318,
+    "toMs": 5631,
+    "confidence": 1
+  },
+  {
+    "text": " cause,",
+    "startMs": 5678,
+    "endMs": 6149,
+    "fromMs": 5678,
+    "toMs": 6149,
+    "confidence": 1
+  },
+  {
+    "text": " then",
+    "startMs": 6196,
+    "endMs": 6510,
+    "fromMs": 6196,
+    "toMs": 6510,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 6557,
+    "endMs": 6792,
+    "fromMs": 6557,
+    "toMs": 6792,
+    "confidence": 1
+  },
+  {
+    "text": " cause",
+    "startMs": 6839,
+    "endMs": 7231,
+    "fromMs": 6839,
+    "toMs": 7231,
+    "confidence": 1
+  },
+  {
+    "text": " before",
+    "startMs": 7278,
+    "endMs": 7749,
+    "fromMs": 7278,
+    "toMs": 7749,
+    "confidence": 1
+  },
+  {
+    "text": " that.",
+    "startMs": 7796,
+    "endMs": 8188,
+    "fromMs": 7796,
+    "toMs": 8188,
+    "confidence": 1
+  },
+  {
+    "text": " Keep",
+    "startMs": 8235,
+    "endMs": 8549,
+    "fromMs": 8235,
+    "toMs": 8549,
+    "confidence": 1
+  },
+  {
+    "text": " going",
+    "startMs": 8596,
+    "endMs": 8988,
+    "fromMs": 8596,
+    "toMs": 8988,
+    "confidence": 1
+  },
+  {
+    "text": " until",
+    "startMs": 9035,
+    "endMs": 9427,
+    "fromMs": 9035,
+    "toMs": 9427,
+    "confidence": 1
+  },
+  {
+    "text": " you",
+    "startMs": 9475,
+    "endMs": 9710,
+    "fromMs": 9475,
+    "toMs": 9710,
+    "confidence": 1
+  },
+  {
+    "text": " reach",
+    "startMs": 9757,
+    "endMs": 10149,
+    "fromMs": 9757,
+    "toMs": 10149,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 10196,
+    "endMs": 10431,
+    "fromMs": 10196,
+    "toMs": 10431,
+    "confidence": 1
+  },
+  {
+    "text": " moment",
+    "startMs": 10478,
+    "endMs": 10949,
+    "fromMs": 10478,
+    "toMs": 10949,
+    "confidence": 1
+  },
+  {
+    "text": " where",
+    "startMs": 10996,
+    "endMs": 11388,
+    "fromMs": 10996,
+    "toMs": 11388,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 11435,
+    "endMs": 11671,
+    "fromMs": 11435,
+    "toMs": 11671,
+    "confidence": 1
+  },
+  {
+    "text": " chain",
+    "startMs": 11718,
+    "endMs": 12110,
+    "fromMs": 11718,
+    "toMs": 12110,
+    "confidence": 1
+  },
+  {
+    "text": " actually",
+    "startMs": 12157,
+    "endMs": 12784,
+    "fromMs": 12157,
+    "toMs": 12784,
+    "confidence": 1
+  },
+  {
+    "text": " began.",
+    "startMs": 12831,
+    "endMs": 13302,
+    "fromMs": 12831,
+    "toMs": 13302,
+    "confidence": 1
+  },
+  {
+    "text": " That",
+    "startMs": 13349,
+    "endMs": 13663,
+    "fromMs": 13349,
+    "toMs": 13663,
+    "confidence": 1
+  },
+  {
+    "text": " is",
+    "startMs": 13710,
+    "endMs": 13867,
+    "fromMs": 13710,
+    "toMs": 13867,
+    "confidence": 1
+  },
+  {
+    "text": " the",
+    "startMs": 13914,
+    "endMs": 14149,
+    "fromMs": 13914,
+    "toMs": 14149,
+    "confidence": 1
+  },
+  {
+    "text": " real",
+    "startMs": 14196,
+    "endMs": 14510,
+    "fromMs": 14196,
+    "toMs": 14510,
+    "confidence": 1
+  },
+  {
+    "text": " target.",
+    "startMs": 14557,
+    "endMs": 15106,
+    "fromMs": 14557,
+    "toMs": 15106,
+    "confidence": 1
+  }
+]
